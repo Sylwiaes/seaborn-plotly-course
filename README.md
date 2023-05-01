@@ -1,1 +1,1 @@
-# seaborn-plotly-course
+# Nauka Python, biblioteka seaborn-plotly
